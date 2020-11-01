@@ -1,10 +1,9 @@
+set runtimepath^="__homepath__/vimconfig/vimrc/"
 
-set runtimepath^="/home/tstone/vimconfig/vimrc/"
-
-source /home/tstone/vimconfig/vimrc/basic.vim
-source /home/tstone/vimconfig/vimrc/extended.vim
-source /home/tstone/vimconfig/vimrc/plugin.vim
-source /home/tstone/vimconfig/vimrc/coc.vim
+source __homepath__/vimconfig/vimrc/basic.vim
+source __homepath__/vimconfig/vimrc/extended.vim
+source __homepath__/vimconfig/vimrc/plugin.vim
+source __homepath__/vimconfig/vimrc/coc.vim
 
 
 
