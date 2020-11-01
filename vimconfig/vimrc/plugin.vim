@@ -15,6 +15,7 @@ call plug#begin('~/.vim/plugged')
  " Plug 'neoclide/coc.nvim', {'branch': 'release'}
  Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
  Plug 'tpope/vim-projectionist'
+ Plug 'rking/ag.vim'
 call plug#end()
 
 "=========
